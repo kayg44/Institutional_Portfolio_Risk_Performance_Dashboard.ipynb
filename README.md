@@ -10,6 +10,8 @@ The dashboard analyzes a diversified 30-holding portfolio across large-cap equit
 
 The final output includes an interactive dashboard that allows users to explore key portfolio insights from one interface.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kayg44/Institutional-Portfolio-Risk-Performance-Dashboard/blob/main/Institutional_Portfolio_Risk_Performance_Dashboard.ipynb)
+
 ## Business Problem
 
 Portfolio managers and investment teams need to understand not only whether a portfolio performed well, but also why it performed the way it did.
